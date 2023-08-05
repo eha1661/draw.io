@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-05T14:06:35.017Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="qKPf0qUoh3aMjv0dsT29" version="21.6.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-05T14:10:07.644Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="6yD33i06jWddwqRgc9-E" version="21.6.6" type="github" pages="2">
   <diagram id="JqJdviuPCdxho2mn57tZ" name="notations">
     <mxGraphModel dx="1362" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,9 +24,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="s5vVEYS6cAt4H3SkYlxa-1" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#7FBA42;" vertex="1" parent="1">
-          <mxGeometry x="710" y="386" width="25" height="53" as="geometry" />
-        </mxCell>
         <mxCell id="50T9bxZ2ZjDuXJ5jSy6L-1" value="" style="shape=actor;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="130" y="570" width="80" height="120" as="geometry" />
         </mxCell>
@@ -44,6 +41,18 @@
             <mxPoint x="210" y="425" as="sourcePoint" />
             <mxPoint x="680" y="425" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="50T9bxZ2ZjDuXJ5jSy6L-9" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="590" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="50T9bxZ2ZjDuXJ5jSy6L-10" value="XEASF" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="409" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="50T9bxZ2ZjDuXJ5jSy6L-11" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#7FBA42;" vertex="1" parent="1">
+          <mxGeometry x="690" y="390" width="25" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="50T9bxZ2ZjDuXJ5jSy6L-12" value="XEASF" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="409" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
