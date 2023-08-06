@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-06T00:23:20.648Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Hdc_aTiMJOkv2oMaxYiW" version="21.6.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-08-06T00:28:14.918Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="V1diK_iVzLQ3mVq_fH_5" version="21.6.6" type="github" pages="5">
   <diagram id="JqJdviuPCdxho2mn57tZ" name="notations">
     <mxGraphModel dx="1362" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -335,8 +335,8 @@
         <mxCell id="nYEcDJNghnfkqekJ2n47-4" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 14px;&quot; color=&quot;#3333ff&quot;&gt;Sender &quot;A&quot;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="85.26" y="421.5" width="94.74" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nYEcDJNghnfkqekJ2n47-5" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 14px;&quot; color=&quot;#3333ff&quot;&gt;Sender &quot;B&quot;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="418.5" width="94.74" height="30" as="geometry" />
+        <mxCell id="nYEcDJNghnfkqekJ2n47-5" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 14px;&quot; color=&quot;#3333ff&quot;&gt;Recepient &quot;B&quot;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="418.5" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nYEcDJNghnfkqekJ2n47-6" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#FF0000;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="39.999999999999986" y="237.5" width="25" height="53" as="geometry" />
