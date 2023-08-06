@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-06T00:45:11.415Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="bWAG80enKrxIQHOx6Iy_" version="21.6.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-08-06T00:45:23.625Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ZMPcigaGFpZd9zw9i1vA" version="21.6.6" type="github" pages="5">
   <diagram id="JqJdviuPCdxho2mn57tZ" name="notations">
     <mxGraphModel dx="1362" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -411,7 +411,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="T2hcPGDoaDE_ym1QF5qo" name="hybrid-encryption">
-    <mxGraphModel dx="1362" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1602" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -501,6 +501,9 @@
         </mxCell>
         <mxCell id="FjxXtSVG5sHZZqWKpIyf-26" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/12.File-128.png" vertex="1" parent="1">
           <mxGeometry x="620" y="10" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="FjxXtSVG5sHZZqWKpIyf-27" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#7FBA42;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="470" y="390" width="25" height="53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
